@@ -73,9 +73,3 @@ English | Hindi
 
 ---
 
-## 🔗 Projects / GitHub
-
-Check out my repositories at [github.com/rahulsinghgautam](https://github.com/rahulsinghgautam)  
-Live Resume: `You can host this repo on GitHub Pages too`
-
----
